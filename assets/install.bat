@@ -2,6 +2,7 @@
 :CREDITS: DUCKPVPTEAM - 2022
 :by canarddu38
 
+if exist C:\Users\%username%\Downloads\DUCKSPLOIT-root.zip (del C:\Users\%username%\Downloads\DUCKSPLOIT-root.zip /F /Q)
 
 color 47
 
